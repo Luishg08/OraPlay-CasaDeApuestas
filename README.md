@@ -1,4 +1,4 @@
-# Simulador de casa de apuestas
+# Simulador de casa de apuestas (DEMO)
 Frontend -> Angular
 Backend -> Loopback
 Base De Datos -> Oracle, funciona con procedimientos almacenados y funciones almacenadas, también con jobs parametrizados
